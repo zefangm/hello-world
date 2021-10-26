@@ -1,5 +1,4 @@
-# hello-world
-my first repository
+# Team LM
 
-Hello, there. This is me writing a commit message to describe me changes.
-I'm doing this following the starter's guide.
+This is a repository where Jintao Zhan, Shike Xu and Zefang Min collaborate with their travelers model competition 2021.
+
